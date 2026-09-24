@@ -1,0 +1,39 @@
+modules/tests/src/test/scala/dev/profunktor/redis4cats/RedisSpec.scala
+  s_b9a65d4909a6a2::t_46317348866cad 59-60
+modules/core/src/main/scala/dev/profunktor/redis4cats/JavaConversions.scala
+  s_b9a65d4909a6a2::t_b64873fd122251 34-37
+site/docs/effects/bloomfilter.md
+  s_b9a65d4909a6a2::t_46317348866cad 1-56
+site/docs/effects/index.md
+  s_b9a65d4909a6a2::t_46317348866cad 14
+modules/tests/src/test/scala/dev/profunktor/redis4cats/TestScenarios.scala
+  s_b9a65d4909a6a2::t_46317348866cad 1700-1743
+modules/effects/src/main/scala/dev/profunktor/redis4cats/commands.scala
+  s_b9a65d4909a6a2::t_b64873fd122251 38
+modules/effects/src/main/scala/dev/profunktor/redis4cats/algebra/bloomfilter.scala
+  s_b9a65d4909a6a2::t_b317dc60caa27c 1-25,28,31-34
+  s_b9a65d4909a6a2::t_a64b6fbea57443 26-27,29-30
+modules/effects/src/main/scala/dev/profunktor/redis4cats/effects.scala
+  s_b9a65d4909a6a2::t_b64873fd122251 38,1578-1617
+modules/effects/src/main/scala/dev/profunktor/redis4cats/redis.scala
+  s_b9a65d4909a6a2::t_a64b6fbea57443 2834-2835,2837,2839,2845-2846,2848-2849
+  s_b9a65d4909a6a2::t_080cc6aa4bab7d 2800-2803,2813-2816
+  s_b9a65d4909a6a2::t_2e12e66044835d 93,2795-2799,2804-2812,2817-2833,2836,2838,2840-2844,2847,2850-2858
+  s_b9a65d4909a6a2::t_8ad43c8d3ba2cb 2859
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f157ef4d29b8d31809be0472c2d071fcf3c7e25a",
+  "prompts": {},
+  "sessions": {
+    "s_b9a65d4909a6a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "606a36b4-14d7-44fe-b7d0-23b94e243f45",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yannick Heiber <ybasket42googlemail.com>"
+    }
+  }
+}
