@@ -1,0 +1,26 @@
+modules/tests/src/test/scala/dev/profunktor/redis4cats/TestScenarios.scala
+  h_c4122cbab16eb8 1731,1734
+  s_6cdad55bef11af::t_cc856d12681d18 1733
+  s_6cdad55bef11af::t_690a4f840a83e9 1732
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "350be328c92c73b7c491e591c23f2e3d1243c2a6",
+  "prompts": {},
+  "humans": {
+    "h_c4122cbab16eb8": {
+      "author": "Yannick Heiber <ybasket42googlemail.com>"
+    }
+  },
+  "sessions": {
+    "s_6cdad55bef11af": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1790236353971",
+        "model": "unknown"
+      },
+      "human_author": "Yannick Heiber <ybasket42googlemail.com>"
+    }
+  }
+}
