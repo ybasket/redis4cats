@@ -1,0 +1,20 @@
+modules/tests/src/test/scala/dev/profunktor/redis4cats/RedisClusterSpec.scala
+  s_b9a65d4909a6a2::t_390549657f635f 57-59
+  s_b9a65d4909a6a2::t_0969a5f48b62bc 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c42143a10e57853d1c6383107d54691b55a90db7",
+  "prompts": {},
+  "sessions": {
+    "s_b9a65d4909a6a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "606a36b4-14d7-44fe-b7d0-23b94e243f45",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yannick Heiber <ybasket42googlemail.com>"
+    }
+  }
+}
