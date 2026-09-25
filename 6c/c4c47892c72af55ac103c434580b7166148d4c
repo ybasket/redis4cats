@@ -1,0 +1,34 @@
+modules/tests/src/test/scala/dev/profunktor/redis4cats/TestScenarios.scala
+  s_6cdad55bef11af::t_cc4a7e37e7bd27 1707
+  h_c4122cbab16eb8 1708
+  s_6cdad55bef11af::t_4c8eaaa39f5cc5 1706
+modules/effects/src/main/scala/dev/profunktor/redis4cats/redis.scala
+  s_6cdad55bef11af::t_1700e633fb36c0 2857
+  s_6cdad55bef11af::t_e260844fcdcb4a 2859
+  h_c4122cbab16eb8 2858,2860
+site/docs/effects/bloomfilter.md
+  s_6cdad55bef11af::t_f7bdf09ecdb169 56
+modules/effects/src/main/scala/dev/profunktor/redis4cats/algebra/bloomfilter.scala
+  h_c4122cbab16eb8 33-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6cc4c47892c72af55ac103c434580b7166148d4c",
+  "prompts": {},
+  "humans": {
+    "h_c4122cbab16eb8": {
+      "author": "Yannick Heiber <ybasket42googlemail.com>"
+    }
+  },
+  "sessions": {
+    "s_6cdad55bef11af": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1790236353971",
+        "model": "unknown"
+      },
+      "human_author": "Yannick Heiber <ybasket42googlemail.com>"
+    }
+  }
+}
