@@ -1,0 +1,14 @@
+modules/effects/src/main/scala/dev/profunktor/redis4cats/algebra/bloomfilter.scala
+  h_c4122cbab16eb8 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6d3a0911d4b520b4725dea973b7ce0a4a19df257",
+  "prompts": {},
+  "humans": {
+    "h_c4122cbab16eb8": {
+      "author": "Yannick Heiber <ybasket42googlemail.com>"
+    }
+  }
+}
