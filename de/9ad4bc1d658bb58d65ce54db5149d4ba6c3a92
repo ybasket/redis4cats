@@ -1,0 +1,14 @@
+modules/tests/src/test/scala/dev/profunktor/redis4cats/TestScenarios.scala
+  h_c4122cbab16eb8 1712
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "de9ad4bc1d658bb58d65ce54db5149d4ba6c3a92",
+  "prompts": {},
+  "humans": {
+    "h_c4122cbab16eb8": {
+      "author": "Yannick Heiber <ybasket42googlemail.com>"
+    }
+  }
+}
